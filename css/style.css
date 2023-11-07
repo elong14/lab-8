@@ -4,32 +4,32 @@
 
 #container {
   width: 100%;
-  max-width: 400px; /* Adjust the max-width as needed */
+  max-width: 400px; 
   margin: 50px auto 0;
 }
 
 #entryinput {
   width: 100%;
-  padding: 10px; /* Added padding for better spacing */
-  font-size: 16px; /* Adjust font size as needed */
+  padding: 10px; 
+  font-size: 16px;
 }
 
 #entrybutton {
   width: 100%;
-  max-width: 200px; /* Adjust the max-width as needed */
+  max-width: 200px; 
   text-align: center;
   color: #fff;
   background-color: #c00;
-  padding: 15px; /* Increased padding for better appearance */
+  padding: 15px; 
   margin: 20px auto;
-  font-size: 18px; /* Adjust font size as needed */
+  font-size: 18px; 
   font-weight: bold;
-  border: none; /* Removed the border for a cleaner look */
-  border-radius: 5px; /* Added border-radius for rounded corners */
-  cursor: pointer; /* Added cursor style for better interaction */
+  border: none;
+  border-radius: 5px; 
+  cursor: pointer; 
 }
 
-/* Add hover effect to the button */
+
 #entrybutton:hover {
-  background-color: #f00; /* Change the background color on hover */
+  background-color: #f00; 
 }
