@@ -4,6 +4,7 @@
 #container {
   width: 400px;
   margin: 50px auto 0;
+  background-color: brown;
 }
 #entryinput {
   width: 100%;
